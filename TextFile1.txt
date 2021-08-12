@@ -1,0 +1,9 @@
+adicionar a tela de controle de caixa e testar se a venda esta sendo salva
+
+adicionado tela de produtos e botoes de controle de usuarios
+
+adicionado filtro do caixa por data, falta verificar demais filtros
+adicionar soma total no caixa
+adicionar tela de clientes
+
+definir que escolha o cliente antes de iniciar a venda
